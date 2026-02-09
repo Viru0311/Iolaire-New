@@ -13,8 +13,8 @@
   --color-popover: hsl(222 47% 11%);
   --color-popover-foreground: hsl(210 40% 98%);
 
-  --color-primary: hsl(217 91% 60%);
-  --color-primary-foreground: hsl(222 47% 11%);
+  --color-primary: hsl(265 89% 50%); /* Vibrant purple from logo */
+  --color-primary-foreground: hsl(210 40% 98%);
 
   --color-secondary: hsl(217 19% 27%);
   --color-secondary-foreground: hsl(210 40% 98%);
